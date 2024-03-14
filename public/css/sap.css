@@ -1,0 +1,16 @@
+.icon img{
+    height:50px;
+    width:100px;
+}
+.heading{
+    font-size:50px ;
+    text-align:center;
+}
+.Sap{
+    margin: 20px 350px;
+    padding: 20px 30px;
+    border:2px solid green;
+    border-radius: 12px ;
+    width: 50vw;
+  
+}

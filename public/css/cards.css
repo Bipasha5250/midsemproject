@@ -1,0 +1,30 @@
+body{
+    background-color: whitesmoke;
+}
+.card1{
+    
+    justify-items: center;
+    align-items: center;
+    height:35vh;
+    border: 2px solid green;
+}
+.card2{
+
+    justify-items: center;
+    align-items: center;
+    height:35vh; 
+border: 2px solid green;}
+
+.box{
+    margin:200px 250px;
+    gap:100px;
+    display:flex;
+    flex:wrap;
+    justify-items: center;
+    align-items: center;
+    height:100vh;
+
+}
+.btn {
+    justify-items: center;
+}
